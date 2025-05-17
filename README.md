@@ -1,1 +1,2 @@
 # Autism-Predictor-
+Our team developed an Autism Predictor App designed to assist in the early detection of autism spectrum disorder (ASD) in children. The application leverages machine learning algorithms to analyze user-inputted behavioral and developmental data to predict the likelihood of autism. It features a user-friendly interface, making it accessible for parents, caregivers, and healthcare professionals.
